@@ -1,5 +1,5 @@
-
-<p align="center">
+git cione https://github.com/0xbitx/DEDSEC_TIKTOKVB.git
+<git clone https://github.com/0xbitx/DEDSEC_TIKTOKVB.git
 <img src="https://github.com/user-attachments/assets/18ad3af8-10a8-4c7b-af96-976d3cb8694f", width="300", height="300">
 </p>
 
